@@ -26,7 +26,7 @@ Script ini mengotomatisasi proses pembuatan akun di ProxyScrape dengan fitur:
 
 ### Python Dependencies
 ```bash
-pip install selenium webdriver-manager
+pip install selenium webdriver-manager undetected_chromedriver
 ```
 
 ### Browser
