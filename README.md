@@ -8,7 +8,6 @@ Script ini mengotomatisasi proses pembuatan akun di ProxyScrape dengan fitur:
 - Auto-fill form signup
 - Generate password random
 - Handle verifikasi email
-- Setup IP authentication
 - User-agent rotation
 
 ## 🚀 Fitur
@@ -21,7 +20,6 @@ Script ini mengotomatisasi proses pembuatan akun di ProxyScrape dengan fitur:
 - ✅ Pause untuk verifikasi captcha manual
 - ✅ Auto-fill form onboarding
 - ✅ Handle verifikasi email
-- ✅ Setup IP authentication
 - ✅ Rotasi User-Agent
 
 ## 📦 Prerequisites
